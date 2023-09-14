@@ -99,7 +99,7 @@ Neste projeto utilizamos [Python](https://www.python.org/) como linguagem de pro
   <br />
 
   ```sh
-  gh repo clone gh repo clone ViniciusBF/trybe-restaurant-orders
+  gh repo clone ViniciusBF/trybe-restaurant-orders
   ```
 
   <p>
